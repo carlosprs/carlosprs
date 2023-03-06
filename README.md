@@ -1,10 +1,10 @@
-## Oi eu sou o Carlos Pires, estudante de análise e desenvolvimento de sistemas.
+<h2 align="left">Olá ! Meu nome é Carlos Pires!<br>Seja muito bem vindo(a) ao meu perfil do Github </h2>
 
+###
 
+<p align="left">Sou estudante de análise e desenvolvimento de sistemas.
 
-
-
-
+###
 
 <div>
 
@@ -32,8 +32,12 @@
 
 <div> 
   <a href="https://instagram.com/carlospires.br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:carlos.prs.junior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   <a href="https://www.linkedin.com/in/carlos-prs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 	<a href = "mailto:carlos.prs.junior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   <a href="https://www.linkedin.com/in/carlos-prs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-   ![Snake animation](https://github.com/carlosprs/carlosprs/blob/output/github-contribution-grid-snake.svg)
-    
 </div>
+  
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"  />
+
+###
